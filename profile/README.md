@@ -1,12 +1,26 @@
-## Hi there 👋
+<div dir="rtl">
+<h2>
+جامعۀ سیکیوریتی لِرن
+</h2>
 
-<!--
+<br/>
+<img src="https://persian-badge.vercel.app/api/badge/اولین سایت ایرانی-برای یادگیری امنیت-0088CC??style=flat-square"/>
+<hr/>
 
-**Here are some ideas to get you started:**
+جامعۀ سیکیویریتی لِرن اولین جامعۀ ایرانیست که تصمیم دارد به کاربران ایرانی امنیت یادبدهد.
+<br/>
+باحال نیست؟ یاد سریال **Mr.Robot** افتادم:))
+<hr/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
+<center>
+<h3>شبکات اجتماعی</h3>
+
+<a href="https://www.ghalbeyou.ir/joins/discord">
+<img src="https://persian-badge.vercel.app/api/badge/عضویت به-سرور دیسکورد-0088CC"/>
+</a>
+</center>
+
+</div>
